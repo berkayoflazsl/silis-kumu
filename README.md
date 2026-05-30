@@ -46,13 +46,3 @@ Aşağıdaki tablo, endüstriyel standartlarda kabul gören yüksek kaliteli bir
 | **Nem Oranı** | Max %0.5 | Fırınlanmış (kurutulmuş) ürünlerde yapı kimyasalları miksine tam uyum sağlar. |
 
 ---
-
-## 3. SEO ve Link Profili Optimizasyonu İçin Notlar
-
-Bu teknik dokümantasyon, silis kumu sektöründeki dikey arama hacimlerini beslemek üzere kurgulanmıştır. Metin içerisinde kullanılan anahtar kelimeler, arama motoru botlarının (Googlebot vb.) siteler arasındaki anlamsal ilişkiyi (semantic connection) kurmasını kolaylaştırır. 
-
-* **Anchor Text Stratejisi:** Metin içerisindeki linkler doğrudan anahtar kelimelerin varyasyonlarına dağıtılmıştır. Bu durum arama motorlarına "doğal referans" sinyali gönderir.
-* **İndekslenme Hızı:** GitHub üzerindeki genel erişime açık (public) depolar Google tarafından çok hızlı taranıp indekslendiği için, buradaki link çıkışları hedef sitelerin tarama bütçesine (crawl budget) pozitif katkı sunacaktır.
-
----
-*Bu rehber, endüstriyel hammadde standartları ve dijital kaynak optimizasyonu amacıyla periyodik olarak güncellenmektedir.*
